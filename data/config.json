@@ -1,0 +1,9 @@
+{
+    "analyst": "M0X1",
+    "theme": "default",
+    "log_level": "INFO",
+    "scan_timeout": 3,
+    "colored_output": true,
+    "reports_path": "reports/",
+    "logs_path": "0/"
+}
