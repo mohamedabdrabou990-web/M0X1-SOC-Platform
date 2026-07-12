@@ -106,7 +106,7 @@ M0X1-SOC/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/M0X1-SOC.git
+git clone https://github.com/mohamedabdrabou990-web/M0X1-SOC.git
 ```
 
 Move into the project directory:
